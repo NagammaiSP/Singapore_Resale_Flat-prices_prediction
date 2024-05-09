@@ -24,8 +24,8 @@ This Streamlit web application predicts house prices using machine learning. It 
    Click "Predict" to receive the house price estimate.
 
 ## Files
-- `app.py`: Contains the Streamlit application code.
-- `requirements.txt`: Lists the dependencies required for the app.
+- `resale.py`: Contains the Streamlit application code.
+- `resale_app.ipynb`: Data preprocessing required for the app.
 
 ## Model
 The app uses a trained machine learning model (`house_price_model.pkl`) for predictions.
